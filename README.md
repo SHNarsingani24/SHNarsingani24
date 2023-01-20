@@ -11,10 +11,11 @@ Skills: MERN Stack / C++ / JavaScript
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: Just Ping me on narsinganisagarh@gmail.com 
 - 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I am a good poet, too! 
+- ⚡ Fun fact: I write poems, too! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SHNarsingani24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sagarnarsingani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Sagar2411/)  
+![Profile views](https://gpvc.arturio.dev/SHNarsingani24)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHNarsingani24)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,4 +25,4 @@ Skills: MERN Stack / C++ / JavaScript
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SHNarsingani24)  
 
-![Profile views](https://gpvc.arturio.dev/SHNarsingani24)  
+
